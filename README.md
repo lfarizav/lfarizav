@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://beanters.com/luis-ariza/">Website</a> ·
+  <a href="https://lfarizav.github.io/">Website</a> ·
   <a href="https://www.linkedin.com/in/luis-felipe-ariza-vesga/">LinkedIn</a> ·
   <a href="https://medium.com/@lfarizav">Medium</a> ·
   <a href="https://www.youtube.com/channel/UCz_8dQJotLFiNyOOkW92ahg">YouTube</a> ·
@@ -19,7 +19,7 @@
 
 I work where 3GPP standards, Kubernetes and AI agents meet: making 4G and 5G private networks something a small team can deploy, observe and operate as software. I teach at Pontificia Universidad Javeriana and organize the Colombia OpenInfra User Group and KCD Colombia.
 
-Hablo español: [versión en español del sitio](https://beanters.com/luis-ariza/es/).
+Hablo español: [versión en español del sitio](https://lfarizav.github.io/es/).
 
 ## What I am doing now
 
