@@ -30,9 +30,10 @@ Hablo español: [versión en español del sitio](https://lfarizav.github.io/es/)
 
 ## Recent talks
 
-- **KubeCon + CloudNativeCon Europe 2026, Amsterdam:** [From Chaos to Control: A Prescription for Managing Apps on Private Cellular Networks](https://kccnceu2026.sched.com/event/2CW5X/from-chaos-to-control-a-prescription-for-managing-apps-on-private-cellular-networks-luis-ariza-beanters)
-- **La Hora de Kubernetes, Sep 2025:** FluxCD para redes celulares, [slides](https://github.com/lfarizav/techtalk-slides)
-- **KCD Colombia 2025** and the **5th Colombia OpenInfra User Group**
+- **KubeCon + CloudNativeCon Europe 2026, Amsterdam:** [From Chaos to Control: A Prescription for Managing Apps on Private Cellular Networks](https://kccnceu2026.sched.com/event/2CW5X/from-chaos-to-control-a-prescription-for-managing-apps-on-private-cellular-networks-luis-ariza-beanters) ([slides](https://github.com/lfarizav/techtalk-slides))
+- **5th Colombia OpenInfra User Group, Jun 2026:** [Despliegue automatizado de redes celulares usando lenguaje natural](https://www.youtube.com/watch?v=sMaHOMGwTUE)
+- **KCD Colombia 2025, Aug 2025:** Enhancing Stability and Enabling Cloud-Native Capabilities for Private Cellular Networks ([slides](https://github.com/lfarizav/techtalk-slides))
+- **La Hora de Kubernetes, Sep 2025:** FluxCD para redes celulares ([slides](https://github.com/lfarizav/techtalk-slides))
 
 ## Selected open source
 
