@@ -15,6 +15,10 @@
   <a href="https://linktr.ee/lfarizav">All links</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lfarizav/lfarizav/animation/robot-family.webp" width="100%" alt="Animated scene: two robots and a person read on a bench while knowledge flows from the books into the robots' heads, and a grey crowd walks past staring at phones" />
+</p>
+
 ## About
 
 I work where 3GPP standards, Kubernetes and AI agents meet: making 4G and 5G private networks something a small team can deploy, observe and operate as software. I teach at Pontificia Universidad Javeriana and organize the Colombia OpenInfra User Group and KCD Colombia.
