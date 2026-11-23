@@ -18,7 +18,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lfarizav/lfarizav/animation/robot-family.webp" width="100%" alt="Animated scene: two robots and a person read on a bench while knowledge flows from the books into the robots' heads, and a grey crowd walks past staring at phones" />
 </p>
-
+<a href="https://certdirectory.io/profile/luis-felipe-ariza-vesga?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/luis-felipe-ariza-vesga.svg?style=card&theme=dark">
+    <img alt="Luis Felipe Ariza Vesga on CertDirectory" src="https://certdirectory.io/badge/luis-felipe-ariza-vesga.svg?style=card">
+  </picture>
+</a>
 ## About
 
 I work where 3GPP standards, Kubernetes and AI agents meet: making 4G and 5G private networks something a small team can deploy, observe and operate as software. I teach at Pontificia Universidad Javeriana and organize the Colombia OpenInfra User Group and KCD Colombia.
