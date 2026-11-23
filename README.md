@@ -1,4 +1,3 @@
-<h1 align="center">Luis Felipe Ariza Vesga</h1>
 
 <p align="center">
   <strong>Kubestronaut · PhD in Telecommunications · Founder of <a href="https://beanters.com">Beanters</a></strong><br>
